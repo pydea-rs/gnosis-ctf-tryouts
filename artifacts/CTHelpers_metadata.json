@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"./CTHelpers.sol": "CTHelpers"
+			"CTHelpers.sol": "CTHelpers"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -26,13 +26,13 @@
 			"bytecodeHash": "ipfs"
 		},
 		"optimizer": {
-			"enabled": false,
+			"enabled": true,
 			"runs": 200
 		},
 		"remappings": []
 	},
 	"sources": {
-		"./CTHelpers.sol": {
+		"CTHelpers.sol": {
 			"keccak256": "0xc685222db1fd1298ab737deac3f96212bcdaca82fa3d60307214396e1bf5a158",
 			"urls": [
 				"bzz-raw://ada221d7d5b599ac784ca8b658647760d08d8e4e89cef2df6ecfa7a90e711620",
