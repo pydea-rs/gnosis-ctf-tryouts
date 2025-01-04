@@ -1,0 +1,52 @@
+{
+	"compiler": {
+		"version": "0.8.28+commit.7893614a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"./CTHelpers.sol": "CTHelpers"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"./CTHelpers.sol": {
+			"keccak256": "0xc685222db1fd1298ab737deac3f96212bcdaca82fa3d60307214396e1bf5a158",
+			"urls": [
+				"bzz-raw://ada221d7d5b599ac784ca8b658647760d08d8e4e89cef2df6ecfa7a90e711620",
+				"dweb:/ipfs/QmPTEZw9BQRnLfeFQFq8VxwHoqugesAQ6r9YPkWZGTt3kW"
+			]
+		},
+		"github.com/OpenZeppelin/openzeppelin-contracts/contracts/token/ERC20/IERC20.sol": {
+			"keccak256": "0xe06a3f08a987af6ad2e1c1e774405d4fe08f1694b67517438b467cecf0da0ef7",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://df6f0c459663c9858b6cba2cda1d14a7d05a985bed6d2de72bd8e78c25ee79db",
+				"dweb:/ipfs/QmeTTxZ7qVk9rjEv2R4CpCwdf8UMCcRqDNMvzNxHc3Fnn9"
+			]
+		}
+	},
+	"version": 1
+}
