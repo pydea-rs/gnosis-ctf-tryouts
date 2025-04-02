@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.28+commit.7893614a"
+		"version": "0.8.20+commit.a1b79de6"
 	},
 	"language": "Solidity",
 	"output": {
@@ -1097,7 +1097,7 @@
 		"compilationTarget": {
 			"ConditionalTokens.sol": "ConditionalTokens"
 		},
-		"evmVersion": "cancun",
+		"evmVersion": "shanghai",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
@@ -1140,11 +1140,11 @@
 			]
 		},
 		"github.com/OpenZeppelin/openzeppelin-contracts/contracts/token/ERC1155/IERC1155.sol": {
-			"keccak256": "0x68d6fdbeb467192c3627a46aa7bf5cbb73267363b740abc511f521a5a41a446e",
+			"keccak256": "0xf051d3a2c7f1a53e06b69050c5326c5f1217fa356da25383e50c5132aa72250a",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://7ce608c19d5e917c60f9c8aa3e5f0eb05b326280ac0a235e8bb9a848a3a64a91",
-				"dweb:/ipfs/QmdLPsWQJj7JvRae8MM13GEo4PBXaEFmD4b4heqcyMJNPG"
+				"bzz-raw://4e03dfde63a4d08d89a22a26a0f94c4f3b40c1787ee3cebc723c65dcc80c80fe",
+				"dweb:/ipfs/QmYhuU6Mff37az62JhbHqAGqeTZHE4Jra6fJyvJGWAdjSq"
 			]
 		},
 		"github.com/OpenZeppelin/openzeppelin-contracts/contracts/token/ERC1155/IERC1155Receiver.sol": {
@@ -1164,11 +1164,11 @@
 			]
 		},
 		"github.com/OpenZeppelin/openzeppelin-contracts/contracts/token/ERC1155/utils/ERC1155Utils.sol": {
-			"keccak256": "0x30afe9013aaeb3ba735284a9310792776f57a3b2db6fc1d99628f2c47287f5cf",
+			"keccak256": "0x0b2d0f0e630c4d7c5e90339d6d58266114040d2b729ebccd00f40d35248e2901",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://1c675b740746031092efcedb2e18179f05fce8ba482de64e982715e4aa16bc90",
-				"dweb:/ipfs/QmVdUD89qYudLc88k5AsuQ6VWyz9SE1c6UXrVK32Yqh1YS"
+				"bzz-raw://06bb7ed44f8926bd3dc1c5acd341ed63731b12dfcc8e6a07135a61c40a4def13",
+				"dweb:/ipfs/QmWpJ2zzmxq1HQ5pD9MPEr2eceiAhN5P6KtWF81Ug939nF"
 			]
 		},
 		"github.com/OpenZeppelin/openzeppelin-contracts/contracts/token/ERC20/IERC20.sol": {
@@ -1180,11 +1180,11 @@
 			]
 		},
 		"github.com/OpenZeppelin/openzeppelin-contracts/contracts/utils/Arrays.sol": {
-			"keccak256": "0xaf9586854de33dc9d3a7160cad8170fdfb4119d02a44bad90ba16d71d701cc92",
+			"keccak256": "0xb4d040e2cc1d4a66d08b174b97332aa3dbf330bc74f91c725d7ff653efca7eb1",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://c15a02762b0a51d66e36be135c27de656093fc09292fa743df8484b87d4486ea",
-				"dweb:/ipfs/QmbEozFrt5XwC9nzDFuXvN1RF3hQVwKYNi8c2R4bFvYJ2X"
+				"bzz-raw://9da205f459aac15cadd00538691b525eef81f098a95bc3eedea12968bcb70706",
+				"dweb:/ipfs/QmcqTJET3rNsXMGT3UvqLgFS3RrKaHe5x97m4dcfUCWMoW"
 			]
 		},
 		"github.com/OpenZeppelin/openzeppelin-contracts/contracts/utils/Comparators.sol": {
@@ -1212,11 +1212,11 @@
 			]
 		},
 		"github.com/OpenZeppelin/openzeppelin-contracts/contracts/utils/SlotDerivation.sol": {
-			"keccak256": "0x8447b57b63810fe2e367c09496a966f143ec0e825d71ddb9fce2506cff84b618",
+			"keccak256": "0x91832f9744a308318ef3344caf2122345d6a949e25017461322d13a4ede53f10",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://996cb48f793bf151555045b37138e36b3cdb31d6bc6552d3149285260be00cfb",
-				"dweb:/ipfs/QmcLaTTMNVbkMx58xhkp6GeFt4V3GtSyupZuaKG3vYW2Zc"
+				"bzz-raw://77f5fa6ce1145a3637406a77940cd1ab50523187c8ac7281805b3fc2bd6ffd5e",
+				"dweb:/ipfs/QmewJyTg2SoBee1bKwks3vktT2wTQhB7TtzZg9xKvzvfUf"
 			]
 		},
 		"github.com/OpenZeppelin/openzeppelin-contracts/contracts/utils/StorageSlot.sol": {
@@ -1244,11 +1244,11 @@
 			]
 		},
 		"github.com/OpenZeppelin/openzeppelin-contracts/contracts/utils/math/Math.sol": {
-			"keccak256": "0x6f61a65c733690afafb4cf528b5677e704828c8350b60b948dbc1d3bb6d7689c",
+			"keccak256": "0xc240f71206795cead02e49f999b3523414c230cec53423298d8457a7ce9d3ea4",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://00265b985b303af62ee243e10db819fa8cf890d9f122f82f4f03f55b02f62654",
-				"dweb:/ipfs/QmNneFqZn2uKK6dECxatH6aENk1EMCTETi58dGaz5NCWQe"
+				"bzz-raw://7d5813c665d5ea1b73e27844800eb45831b9ba608b2a9216ead318e246fd5e8f",
+				"dweb:/ipfs/QmNStA3tbwHZm1tXgdmY4wB3NbYKJtzYWADjKmDMhYHjyA"
 			]
 		},
 		"github.com/OpenZeppelin/openzeppelin-contracts/contracts/utils/math/SafeCast.sol": {
